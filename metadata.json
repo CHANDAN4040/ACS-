@@ -1,0 +1,8 @@
+{
+  "name": "ACS PDF WALA",
+  "description": "A powerful, offline-first PDF utility app with AI capabilities. Features Image-to-PDF, Merge, Split, and AI OCR powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
